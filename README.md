@@ -1,0 +1,2 @@
+# lazvim
+simple vim customization
